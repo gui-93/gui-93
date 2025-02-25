@@ -7,7 +7,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Rede-Social-YT.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Rede-Social-YT.github&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Restaurante-EBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
