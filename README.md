@@ -17,6 +17,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Painel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Painel](https://app.powerbi.com/view?r=eyJrIjoiOTljOTE4OWUtZGQ2Zi00ZTZkLThmNDgtZjY2MWZhMjJiMmJjIiwidCI6IjJhZWZhOTZmLWU2MDYtNDYyZC1iYmNlLTE1YTUyMjcxMGVlMiJ9)&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
