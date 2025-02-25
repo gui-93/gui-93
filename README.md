@@ -15,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Projeto-SQL&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Painel&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Dashboard&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
