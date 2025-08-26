@@ -1,22 +1,28 @@
 <h1 align="center">Oi 👋, Eu sou o Antonio Guilherme Almeida Santos</h1>
-<h3 align="center">Um Analista de Dados</h3>
 
-- Estou em transição de carreira, com objetivo de trabalhar como Analista de Dados, área na qual tenho adquirido diversos conhecimentos e habilidades, capaz de identificar problemas de forma analítica e propor soluções rápidas e eficazes.
+<h3>Minhas Experiências</h3>
+- 🌐 Tenho experiência em trabalhar com Excel, Python, SQL, Power BI para Analise de Dados<br>
+- 🎲 Faço projetos de analise de dados em diversos temas<br>
+- 📚 Curso Profissionalizante de Analista de Dados pela EBAC<br>
+- 📧 Quer entrar em contato comigo? Envie um e-mail para g93.almeida@gmail.com<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-93&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Sobre mim:</h3>
+Estou em migração para area de Analise da Dados. Desenvolvendo conhecimentos e habilidades, capaz de identificar problemas de forma analítica e propor soluções rápidas e eficazes. Atualmente estudo Machine Learning.
 
-### Minhas Skills:
+<h3>Habilidades técnicas:</h3>
+- Python (scikit-learn, pandas, numpy, matplotlib, seaborn)<br>
+- SQL<br>
+- Machine Learning (Modelos supervisionados e não supervisionados)<br>
+- Estatística descritiva e inferencial aplicada à análise de dados<br>
+- Excel, PowerBI e Google Looker Studio<br>
 
-- Python (pacotes Pandas, Seaborn, Numy, PySpark);
-- SQL (SQLite, MySQL, Microsoft SQL Server);
-- PowerBI (Power Query, Linguagem M e funções DAX);
-- Excel avançado(VBA, Power Query, Power Pivot);
-- Versionamento de código em Git;
-- Soluções analíticas;
-- Métodos quantitativos de matemática e estatística;
-- Serviços AWS (S3, Athena)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Projeto-Olist&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Analise-Financeira&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Rede-Social-YT&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Restaurante-EBAC&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=E-Gov-Analytics&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Projeto-SQL&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-93&repo=Dashboard&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Habilidades interpessoais:</h3>
+- Capacidade Analitica<br>
+- Inteligência Emocional<br>
+- Proatividade<br>
+- Autoaprendizagem<br>
+- Raciocinio Logico<br>
+- Trabalho em equipe<br>
 
 ### Contatos
 
