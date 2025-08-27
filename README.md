@@ -32,6 +32,7 @@ Estou em migração para area de Analise da Dados. Desenvolvendo conhecimentos e
 
 -  [Projeto Olist E Commerce](https://github.com/gui-93/Projeto-Olist)
 
-<h3>Contatos</h3>
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/antonio-guilherme-almeida-santos/)
+<h3 align="left">Conecte-se comigo</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/antonio-guilherme-almeida-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonio-guilherme-almeida-santos/" height="30" width="40" /></a>
+</p>
