@@ -1,13 +1,7 @@
-<h1 align="center">Oi 👋, Eu sou o Antonio Guilherme Almeida Santos</h1>
-
-<h3>Minhas Experiências</h3>
-- 🌐 Tenho experiência em trabalhar com Excel, Python, SQL, Power BI para Analise de Dados<br>
-- 🎲 Faço projetos de analise de dados em diversos temas<br>
-- 📚 Curso Profissionalizante de Analista de Dados pela EBAC<br>
-- 📧 Quer entrar em contato comigo? Envie um e-mail para g93.almeida@gmail.com<br>
+<h1 align="center">Olá, sou o Antonio Guilherme👋</h1>
 
 <h3>Sobre mim</h3>
-Estou em migração para area de Analise da Dados. Desenvolvendo conhecimentos e habilidades, capaz de identificar problemas de forma analítica e propor soluções rápidas e eficazes. Atualmente estudo Machine Learning.
+Analise da Dados com experiência em análise exploratória de dados, visualização de dados e desenvolvimento de soluções de Business Intelligence. Capacidade em transformar dados complexos em insights estratégicos para tomada de decisões empresariais. Atualmente estudo Machine Learning.
 
 <h3>Habilidades técnicas</h3>
 - Python (scikit-learn, pandas, numpy, matplotlib, seaborn)<br>
