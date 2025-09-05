@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Antonio Guilherme👋</h1>
 
 <h3>Sobre mim</h3>
-Analise da Dados com experiência em análise exploratória de dados, visualização de dados e desenvolvimento de soluções de Business Intelligence. Capacidade em transformar dados complexos em insights estratégicos para tomada de decisões empresariais. Atualmente estudo Machine Learning.
+Analista da Dados com experiência em análise exploratória de dados, visualização de dados e desenvolvimento de soluções de Business Intelligence. Capacidade em transformar dados complexos em insights estratégicos para tomada de decisões empresariais. Atualmente estudo Machine Learning.
 
 <h3>Habilidades técnicas</h3>
 - Python (scikit-learn, pandas, numpy, matplotlib, seaborn)<br>
@@ -18,15 +18,14 @@ Analise da Dados com experiência em análise exploratória de dados, visualiza�
 - Raciocinio Logico<br>
 - Trabalho em equipe<br>
 
-<h3>Projetos</h3>
 
--  [Desvendando os Segredos das Vendas na SuperStore](https://github.com/gui-93/SuperStore)
+###
 
--  [Analise-Financeira](https://github.com/gui-93/Analise-Financeira)
-
--  [Projeto Olist E Commerce](https://github.com/gui-93/Projeto-Olist)
-
-<h3 align="left">Conecte-se comigo</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antonio-guilherme-almeida-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonio-guilherme-almeida-santos/" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="g93.almeida@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/antonio-guilherme-almeida-santos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
